@@ -1,0 +1,15 @@
+/* ==============================================
+   KINGS HIGHWAY TECHNOLOGIES LLC
+   Royal Institutional Design System
+   ============================================== */
+
+/* CSS Custom Properties - Brand Color System */
+:root {
+    /* Brand Colors */
+    --primary-purple: #1a0323;
+    --secondary-purple: #2e0650;
+    --antique-gold: #c67414;
+    --earth-bronze: #763315;
+    --refined-gold: #f3cb41;
+    
+    /* Gradients */
